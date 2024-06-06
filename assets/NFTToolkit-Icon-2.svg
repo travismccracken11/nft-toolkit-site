@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 13</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="NFT-Toolkit---1" transform="translate(-819.000000, -439.000000)" stroke-width="2">
+            <g id="Group-13" transform="translate(820.000000, 440.438620)">
+                <path d="M19.6610169,40 L19.6610169,36.6101695 C19.6610169,34.7380508 21.1787288,33.220339 23.0508475,33.220339 L36.6101695,33.220339 C38.4822881,33.220339 40,34.7380508 40,36.6101695 L40,40 L19.6610169,40 Z" id="Stroke-1" stroke="#414141"></path>
+                <polyline id="Stroke-3" stroke="#414141" points="29.8305085 6.10169492 29.8305085 0 0 0 0 40 12.8813559 40"></polyline>
+                <polyline id="Stroke-5" stroke="#3FB549" points="10.8474576 10.3389831 13.3898305 12.8813559 18.4745763 7.79661017"></polyline>
+                <line x1="6.77966102" y1="23.0584746" x2="16.2711864" y2="23.0584746" id="Stroke-7" stroke="#3FB549"></line>
+                <line x1="6.77966102" y1="29.8381356" x2="12.8813559" y2="29.8381356" id="Stroke-9" stroke="#3FB549"></line>
+                <path d="M26.440678,33.220339 C26.440678,33.220339 24.7457627,19.6672881 24.7457627,17.9661017 C24.7457627,15.1578814 27.0222881,12.8813559 29.8305085,12.8813559 C32.6387288,12.8813559 34.9152542,15.1578814 34.9152542,17.9661017 C34.9152542,19.6672881 33.220339,33.220339 33.220339,33.220339" id="Stroke-11" stroke="#414141"></path>
+            </g>
+        </g>
+    </g>
+</svg>

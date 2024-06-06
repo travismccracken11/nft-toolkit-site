@@ -13,8 +13,187 @@
     />
     <script type="module" crossorigin src="./assets/index-VfsDjeQ6.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-C2h2T-Bc.css">
+    <link rel="stylesheet" crossorigin href="../assets/global.css">
+
   </head>
   <body>
+    <div class="headerImg">
+      <div class="overlay">
+        <div class="content-container">
+          <img src="../assets/NFTToolkit-SwirldsLabs-Logo.svg" class="logo" alt="NFT Toolkit Logo">
+          <h1 class="mt-6 scroll-m-20 text-center text-[28px] font-extrabold tracking-tight sm:mt-20 sm:text-4xl md:text-5xl">Metadata Validator
+          </h1>
+          <p class="intro-text text-center text-[12px] leading-7 sm:text-[14px] md:text-[16px] [&amp;:not(:first-child)]:mt-6">Validate all of the NFT Collection metadata to ensure it will be displayed correctly in wallets, marketplaces and explorers.
+
+          </p>
+        </div>
+      </div>
+    </div>
     <div id="root"></div>
+    <style>
+    p.my-8.font-semibold{margin-top: 0px;}
+    h1.mt-20.scroll-m-20.text-center.text-4xl.font-extrabold.tracking-tight.lg\:text-5xl{display: none !important;}
+    .container {
+    padding: .5em 2.5em 2.5em 2.5em;
+}    .dropzone-label label {
+    cursor: pointer;
+    border-radius: var(--radius);
+    border-width: 1px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(100 116 139 / var(--tw-bg-opacity));
+    padding: 1rem 1.75rem;
+    font-weight: 300;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    -webkit-tap-highlight-color: transparent;
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: .5rem;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: hsl(var(--border));
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-pan-x: ;
+    --tw-pan-y: ;
+    --tw-pinch-zoom: ;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-gradient-from-position: ;
+    --tw-gradient-via-position: ;
+    --tw-gradient-to-position: ;
+    --tw-ordinal: ;
+    --tw-slashed-zero: ;
+    --tw-numeric-figure: ;
+    --tw-numeric-spacing: ;
+    --tw-numeric-fraction: ;
+    --tw-ring-inset: ;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-color: rgb(59 130 246 / .5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    --tw-blur: ;
+    --tw-brightness: ;
+    --tw-contrast: ;
+    --tw-grayscale: ;
+    --tw-hue-rotate: ;
+    --tw-invert: ;
+    --tw-saturate: ;
+    --tw-sepia: ;
+    --tw-drop-shadow: ;
+    --tw-backdrop-blur: ;
+    --tw-backdrop-brightness: ;
+    --tw-backdrop-contrast: ;
+    --tw-backdrop-grayscale: ;
+    --tw-backdrop-hue-rotate: ;
+    --tw-backdrop-invert: ;
+    --tw-backdrop-opacity: ;
+    --tw-backdrop-saturate: ;
+    --tw-backdrop-sepia: ;
+    --tw-contain-size: ;
+    --tw-contain-layout: ;
+    --tw-contain-paint: ;
+    --tw-contain-style: ;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    margin: 0;
+    text-transform: none;
+    -webkit-appearance: button;
+    background-image: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif !important;
+    display: inline-flex;
+    height: 2.5rem;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    border-radius: calc(var(--radius) - 2px);
+    background-color: hsl(var(--primary));
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    color: hsl(var(--primary-foreground));
+    --tw-ring-offset-color: hsl(var(--background));
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+    background-color: #00B836 !important;
+}
+p.mb-4.text-center.leading-7.\[\&\:not\(\:first-child\)\]\:mt-6 {
+    margin: 1em 0;
+}
+button.inline-flex.items-center.justify-center.whitespace-nowrap.rounded-md.text-sm.font-medium.ring-offset-background.transition-colors.focus-visible\:outline-none.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-2.disabled\:pointer-events-none.disabled\:opacity-50.bg-primary.text-primary-foreground.hover\:bg-primary\/90.h-10.px-4.py-2.w-\[200px\] {
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.font-semibold {
+    font-weight: 400 !important;
+    text-align: center !important;
+}
+a.underline.transition.duration-200.hover\:text-slate-600 {
+    font-weight: 600;
+}
+@media (min-width: 640px) {
+  .relative.mx-auto.flex.max-w-\[600px\].flex-col.items-center.justify-center {
+    min-width: 580px;
+    padding:1em;
+}
+      }
+      @media (max-width: 640px) {
+  .mx-auto.flex.w-full.justify-center.gap-6 {
+    flex-direction: column !important;
+    gap: 1rem !important; /* Adjust the gap as needed */
+  }
+  
+  .mx-auto.flex.w-full.justify-center.gap-6 a {
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+  }
+  
+  .mx-auto.flex.w-full.justify-center.gap-6 a button {
+    width: 100% !important;
+  }
+  .relative.mx-auto.flex.max-w-\[600px\].flex-col.items-center.justify-center  {
+    max-width: 300px !important;
+}
+}
+    </style>
   </body>
 </html>

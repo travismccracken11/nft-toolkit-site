@@ -7,14 +7,102 @@
     <title>Tools landing Page</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
     <script type="module" crossorigin src="./assets/index-BzzrQQy_.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-E6DfYfNt.css">
+    <link rel="stylesheet" crossorigin href="./assets/global.css">
   </head>
   <body>
+    <div class="headerImg">
+      <div class="overlay">
+        <div class="content-container">
+          <img src="./assets/NFTToolkit-SwirldsLabs-Logo.svg" class="logo" alt="NFT Toolkit Logo">
+          <h1 class="mt-6 scroll-m-20 text-center text-[28px] font-extrabold tracking-tight sm:mt-20 sm:text-4xl md:text-5xl">
+            Hedera NFT Toolkit
+          </h1>
+          <p class="intro-text text-center text-[12px] leading-7 sm:text-[14px] md:text-[16px] [&amp;:not(:first-child)]:mt-6">
+            Welcome to the Hedera NFT Toolkit! These tools are designed to help you manage and analyze your NFT Collection. Please select a tool from the list below to get started
+          </p>
+        </div>
+      </div>
+    </div>
     <div id="root"></div>
+    <style>
+      /* Grid layout for the container holding the buttons */
+      .mx-auto.mt-10.grid.grid-cols-1.sm\:grid-cols-2.md\:grid-cols-3.gap-6.text-center.sm\:mt-16 {
+        display: grid !important;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 20px !important;
+      }
+      
+      @media (min-width: 640px) {
+        .mx-auto.mt-10.grid.grid-cols-1.sm\:grid-cols-2.md\:grid-cols-3.gap-6.text-center.sm\:mt-16 {
+          grid-template-columns: repeat(2, 1fr) !important;
+        }
+      }
+      
+      @media (min-width: 768px) {
+        .mx-auto.mt-10.grid.grid-cols-1.sm\:grid-cols-2.md\:grid-cols-3.gap-6.text-center.sm\:mt-16 {
+          grid-template-columns: repeat(3, 1fr) !important;
+        }
+      }
+      
+      .button-wrapper {
+        display: flex !important;
+        justify-content: center !important;
+        padding: 0 0px !important;
+      }
+      
+     
+        .custom-button {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    min-width: 200px !important;
+    min-height: 144px;
+    background-color: white !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+    padding: 1rem !important;
+    justify-content: center !important;
+}
+      
+      
+      .icon {
+        margin-bottom: 0.5rem !important;
+        width: 40px !important; /* Adjust the size of the icon as needed */
+        height: 40px !important;
+      }
+      
+      .arrow-icon {
+        margin-top: 0.5rem !important;
+        width: 20px !important; /* Adjust the size of the arrow icon as needed */
+        height: 20px !important;
+      }
+      @media (min-width: 640px) {
+    .sm\:mt-16 {
+        margin-top: 0px;
+    }
+}
+@media (max-width: 640px) {
+  .custom-button {
+      min-width: 300px !important;
+    min-height: 160px;
+    }
+}
+div#root{background: none !important;
+  overflow: inherit !important;
+    box-shadow: inherit !important;
+  }
+.pb-6 {
+    padding-bottom: 0 !important;
+}
+
+      </style>
+      
+      
+
   </body>
+  
 </html>
