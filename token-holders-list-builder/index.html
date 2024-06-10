@@ -14,7 +14,7 @@
     <div class="headerImg">
       <div class="overlay">
         <div class="content-container">
-          <img src="../assets/NFTToolkit-SwirldsLabs-Logo.svg" class="logo" alt="NFT Toolkit Logo">
+          <img src="../assets/NFTToolkit-SwirldsLabs-Logo.svg" class="logo" alt="NFT Toolkit Logo" id="homeLogo">
           <h1 class="mt-6 scroll-m-20 text-center text-[28px] font-extrabold tracking-tight sm:mt-20 sm:text-4xl md:text-5xl">NFT Token Holders List Builder</h1>
           <p class="intro-text text-center text-[12px] leading-7 sm:text-[14px] md:text-[16px] [&amp;:not(:first-child)]:mt-6">Build a list of accounts which hold a specific set of NFTs          </p>
         </div>
@@ -56,6 +56,15 @@ button#isAllConditionsRequired {
    
     padding: 1em;
 }
+.data-\[state\=unchecked\]\:translate-x-0[data-state=unchecked] {
+    --tw-translate-x: 2px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
     </style>
+    <script>
+      document.getElementById('homeLogo').addEventListener('click', function() {
+        window.location.href = '/';
+      });
+    </script>
   </body>
 </html>

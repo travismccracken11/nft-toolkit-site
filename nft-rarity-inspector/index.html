@@ -32,6 +32,20 @@
     min-width: 580px;
     padding:1em;
 }
+
+@media (min-width: 640px) {
+  .relative.mx-auto.flex.max-w-\[600px\].flex-col.items-center.justify-center  {
+    max-width: 580px !important;
+    min-width: 300px !important;
+}
+      }
+      @media (max-width: 640px) {
+        .relative.mx-auto.flex.max-w-\[600px\].flex-col.items-center.justify-center  {
+    max-width: 300px !important;
+    min-width: 300px !important;
+}
+      }
+
 .dropzone-label label {
     cursor: pointer;
     border-radius: var(--radius);
@@ -266,5 +280,10 @@ button.inline-flex.items-center.justify-center.whitespace-nowrap.rounded-md.text
     font-weight: 600;
 }
     </style>
+      <script>
+        document.getElementById('homeLogo').addEventListener('click', function() {
+          window.location.href = '/';
+        });
+      </script>
   </body>
 </html>
