@@ -6,16 +6,20 @@
 .headerImg {
   width: 100%;
   height: 472px;
-  background-image: url('../assets/Hero-Banner-NFT-Toolkit.png');
+  background-image: url(../assets/Hero-Banner-NFT-Toolkit.png);
   background-size: cover;
-  background-position: center;
+  background-position: right;
   position: relative;
 }
 
 @media (max-width: 500px) {
+
   .headerImg {
-    background: #000;
+    background-image: url(../assets/Hero-Banner-NFT-Toolkit.png);
     height: 672px;
+        background-size: cover;
+        background-position: right;
+        position: relative;
   }
   
 }
