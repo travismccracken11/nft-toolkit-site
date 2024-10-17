@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="43px" viewBox="0 0 50 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 7</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="NFT-Toolkit---1" transform="translate(-1075.000000, -668.000000)" stroke-width="2">
-            <g id="Group-7" transform="translate(1076.400000, 669.438620)">
-                <path d="M15.6,40 L4,40 C1.7909,40 0,38.2091 0,36 L0,4 C0,1.7909 1.7909,0 4,0 L15.6,0 C17.8091,0 19.6,1.7909 19.6,4 L19.6,36 C19.6,38.2091 17.8091,40 15.6,40 Z" id="Stroke-1" stroke="#414141"></path>
-                <path d="M43.2,16 L31.6,16 C29.3909,16 27.6,14.2091 27.6,12 L27.6,4 C27.6,1.7909 29.3909,0 31.6,0 L43.2,0 C45.4091,0 47.2,1.7909 47.2,4 L47.2,12 C47.2,14.2091 45.4091,16 43.2,16 Z" id="Stroke-3" stroke="#3FB549"></path>
-                <path d="M43.2,40 L31.6,40 C29.3909,40 27.6,38.2091 27.6,36 L27.6,28 C27.6,25.7909 29.3909,24 31.6,24 L43.2,24 C45.4091,24 47.2,25.7909 47.2,28 L47.2,36 C47.2,38.2091 45.4091,40 43.2,40 Z" id="Stroke-5" stroke="#414141"></path>
-            </g>
-        </g>
-    </g>
+<svg width="50" height="43" viewBox="0 0 50 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1203_58)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.0004 41.4375H5.40039C3.19129 41.4375 1.40039 39.6466 1.40039 37.4375V5.4375C1.40039 3.2284 3.19129 1.4375 5.40039 1.4375H17.0004C19.2095 1.4375 21.0004 3.2284 21.0004 5.4375V37.4375C21.0004 39.6466 19.2095 41.4375 17.0004 41.4375Z" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.6 17.4375H33C30.7909 17.4375 29 15.6466 29 13.4375V5.4375C29 3.2284 30.7909 1.4375 33 1.4375H44.6C46.8091 1.4375 48.6 3.2284 48.6 5.4375V13.4375C48.6 15.6466 46.8091 17.4375 44.6 17.4375Z" stroke="#B8397E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.6 41.4375H33C30.7909 41.4375 29 39.6466 29 37.4375V29.4375C29 27.2284 30.7909 25.4375 33 25.4375H44.6C46.8091 25.4375 48.6 27.2284 48.6 29.4375V37.4375C48.6 39.6466 46.8091 41.4375 44.6 41.4375Z" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1203_58">
+<rect width="50" height="43" fill="white"/>
+</clipPath>
+</defs>
 </svg>

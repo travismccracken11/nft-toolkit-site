@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="38px" height="43px" viewBox="0 0 38 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 17 Copy</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="NFT-Toolkit---1" transform="translate(-561.000000, -439.000000)" stroke-width="2">
-            <g id="Group-17-Copy" transform="translate(562.000000, 440.000000)">
-                <line x1="12.0265913" y1="15.7206424" x2="18.0000063" y2="26.403725" id="Stroke-7" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></line>
-                <line x1="24.0132705" y1="15.7206424" x2="18.0000252" y2="26.403725" id="Stroke-9" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></line>
-                <line x1="0" y1="15.8585384" x2="17.9999685" y2="26.4036936" id="Stroke-11" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></line>
-                <line x1="35.999956" y1="15.7206424" x2="17.9999874" y2="26.403725" id="Stroke-13" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></line>
-                <polygon id="Stroke-1" stroke="#414141" stroke-linecap="round" stroke-linejoin="round" points="27.7607811 40.4386201 8.23908048 40.4386201 8.23908048 26.4037502 27.7607811 26.4037502"></polygon>
-                <path d="M0,15.8585384 C0.574299063,13.7209151 3.05724428,12.1128526 6.03325485,12.1128526 C8.9448951,12.1128526 11.3846122,13.6520143 12.0266165,15.720611 C12.6684949,13.6520143 15.1082749,12.1128526 18.0199152,12.1128526 C20.9316813,12.1128526 23.3713983,13.6520143 24.0132768,15.720611 C24.6552182,13.6520143 27.0949352,12.1128526 30.0065755,12.1128526 C32.9183416,12.1128526 35.3580586,13.6520143 36,15.720611 C36,7.07466349 27.941125,9.43846384e-05 17.9999685,9.43846384e-05 C8.05887504,9.43846384e-05 0,7.21240214 0,15.8585384 Z" id="Stroke-3" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M12.0265913,15.7206424 C12.0890739,7.35092733 14.7098836,0 18.0199529,0 C21.3299593,0 23.9500768,7.35092733 24.0132516,15.7206424" id="Stroke-5" stroke="#414141" stroke-linecap="round" stroke-linejoin="round"></path>
-                <polyline id="Stroke-15" stroke="#3FB549" stroke-linecap="round" stroke-linejoin="round" points="20.5030617 26.403725 20.5030617 33.0855911 18.0199277 31.407621 15.4969005 33.0855911 15.4969005 26.403725"></polyline>
-                <line x1="20.5030617" y1="26.4037502" x2="15.4969005" y2="26.4037502" id="Path-2" stroke="#3FB549"></line>
-            </g>
-        </g>
-    </g>
+<svg width="38" height="43" viewBox="0 0 38 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1203_2)">
+<path d="M13.0273 16.7188L19.0008 27.4018" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.0132 16.7188L19 27.4018" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 16.8594L19 27.4045" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 16.7188L19 27.4018" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.76 41.4372H9.23828V27.4023H28.76V41.4372Z" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 16.8584C1.5743 14.7208 4.05724 13.1128 7.03325 13.1128C9.94489 13.1128 12.3846 14.6519 13.0266 16.7205C13.6685 14.6519 16.1083 13.1128 19.0199 13.1128C21.9317 13.1128 24.3714 14.6519 25.0133 16.7205C25.6552 14.6519 28.0949 13.1128 31.0066 13.1128C33.9183 13.1128 36.3581 14.6519 37 16.7205C37 8.07457 28.9411 1 19 1C9.05887 1 1 8.21231 1 16.8584Z" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.0273 16.7206C13.0898 8.35093 15.7106 1 19.0207 1C22.3307 1 24.9508 8.35093 25.014 16.7206" stroke="#414141" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.5023 27.4023V34.0842L19.0191 32.4062L16.4961 34.0842V27.4023" stroke="#B8397E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.5023 27.4023H16.4961" stroke="#B8397E" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_1203_2">
+<rect width="38" height="43" fill="white"/>
+</clipPath>
+</defs>
 </svg>
